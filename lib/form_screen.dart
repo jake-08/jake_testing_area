@@ -17,6 +17,8 @@ class _FormScreenState extends State<FormScreen> {
   String _food; 
   String _helloAgain;
   String _hellohello;
+  String _helloFromRemote;
+
 
 
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
