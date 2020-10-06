@@ -13,6 +13,7 @@ class _FormScreenState extends State<FormScreen> {
   String _url;
   String _phoneNumber;
   String _calories;
+  String _food; 
 
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
