@@ -13,14 +13,7 @@ class _FormScreenState extends State<FormScreen> {
   String _url;
   String _phoneNumber;
   String _calories;
-  String _flower;
-  String _food; 
-  String _helloAgain;
-  String _hellohello;
-  String _helloFromRemote;
-
-
-
+  
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
   Widget _buildName(){
